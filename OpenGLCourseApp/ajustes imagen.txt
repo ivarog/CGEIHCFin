@@ -1,0 +1,8 @@
+Principio Tarde 4334.5 Temperatura Original
+Tarde 2965.5 Temperatura Original
+Noche Balance de color 0 0 100 Brillo -53
+Noche Balance de color 0 0 100 Brillo -127 Contraste 44
+Mañana Temperatura del color 10827 3189 Brillo -76 Contraste 21
+
+
+

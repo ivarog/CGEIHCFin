@@ -1,0 +1,56 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 12.03.2012 14:28:37
+
+newmtl 13926_cones
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 13926_Diffuse_cones.jpg
+	map_Kd 13926_Diffuse_cones.jpg
+
+newmtl 13926_metal
+	Ns 41.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 13926_Diffuse.jpg
+	map_Kd 13926_Diffuse.jpg
+
+newmtl Glass
+	Ns 32.0000
+	Ni 1.5000
+	d 0.1900
+	Tr 0.8100
+	Tf 0.1900 0.1900 0.1900 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.3240 0.3240 0.3240
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 13926_Paint
+	Ns 36.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 13926_Diffuse.jpg
+	map_Kd 13926_Diffuse.jpg
